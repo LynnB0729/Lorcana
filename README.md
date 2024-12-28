@@ -1,0 +1,2 @@
+# Lorcana
+Lorcana JSON information
