@@ -1,0 +1,150 @@
+{
+  "colors": [
+    "Amber",
+    "Amethyst"
+  ],
+  "deckGroup": "S1",
+  "foilIds": [
+    14,
+    51
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "The Heart of Magic",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 1,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 3,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 6,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 7,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 11,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 12,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 13,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 14,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 22,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 25,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 26,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 30,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 37,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 38,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 43,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 45,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 46,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 47,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 49,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 51,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 52,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 53,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 54,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 55,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 57,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 60,
+      "isFoil": false
+    }
+  ]
+}
