@@ -1,0 +1,160 @@
+{
+  "colors": [
+    "Ruby",
+    "Sapphire"
+  ],
+  "deckGroup": "S3",
+  "foilIds": [
+    552,
+    590
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Plenty of Pluck",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 116,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 130,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 145,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 359,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 362,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 542,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 543,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 547,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 549,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 552,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 553,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 559,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 563,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 567,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 568,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 569,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 570,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 575,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 576,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 578,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 580,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 581,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 585,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 586,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 590,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 591,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 603,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 606,
+      "isFoil": false
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "colors": [
+    "Amber",
+    "Emerald"
+  ],
+  "deckGroup": "S3",
+  "foilIds": [
+    455,
+    518
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Dogged and Dynamic",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 79,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 81,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 314,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 315,
+      "isFoil": false
+    },
+    {
+      "amount": 5,
+      "id": 440,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 442,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 444,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 448,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 450,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 453,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 454,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 455,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 457,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 458,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 459,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 468,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 505,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 507,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 508,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 511,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 512,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 513,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 518,
+      "isFoil": true
+    },
+    {
+      "amount": 1,
+      "id": 520,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 524,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 528,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 532,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 536,
+      "isFoil": false
+    }
+  ]
+}

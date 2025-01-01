@@ -1,0 +1,165 @@
+{
+  "colors": [
+    "Amber",
+    "Amethyst"
+  ],
+  "deckGroup": "S4",
+  "foilIds": [
+    709,
+    729
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Madrigal Magic",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 19,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 28,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 40,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 259,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 457,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 462,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 493,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 692,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 694,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 700,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 704,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 706,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 709,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 710,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 712,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 714,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 719,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 720,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 726,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 729,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 731,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 732,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 736,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 738,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 742,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 744,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 747,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 751,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 758,
+      "isFoil": false
+    }
+  ]
+}

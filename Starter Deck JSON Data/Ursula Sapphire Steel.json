@@ -1,0 +1,160 @@
+{
+  "colors": [
+    "Sapphire",
+    "Steel"
+  ],
+  "deckGroup": "S4",
+  "foilIds": [
+    829,
+    871
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Stand Together",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 3,
+      "id": 140,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 154,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 200,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 355,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 613,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 625,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 828,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 829,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 832,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 835,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 842,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 843,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 844,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 846,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 848,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 853,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 855,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 863,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 865,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 871,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 873,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 874,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 879,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 880,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 881,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 888,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 892,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 895,
+      "isFoil": false
+    }
+  ]
+}

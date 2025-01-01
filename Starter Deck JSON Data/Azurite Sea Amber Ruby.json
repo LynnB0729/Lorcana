@@ -1,0 +1,175 @@
+{
+  "colors": [
+    "Amber",
+    "Ruby"
+  ],
+  "deckGroup": "S6",
+  "foilIds": [
+    1224,
+    1325
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "A Seaworthy Crew",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 960,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 963,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 968,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 973,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 988,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1069,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1092,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1200,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1202,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1203,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1221,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1222,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1224,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 1227,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1228,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1231,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1233,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1303,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1304,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1305,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1307,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1308,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1310,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1314,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1316,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1317,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1320,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1325,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 1328,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1329,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1335,
+      "isFoil": false
+    }
+  ]
+}

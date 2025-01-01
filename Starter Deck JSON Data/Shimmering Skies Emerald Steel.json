@@ -1,0 +1,165 @@
+{
+  "colors": [
+    "Emerald",
+    "Steel"
+  ],
+  "deckGroup": "S5",
+  "foilIds": [
+    1049,
+    1141
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "A Roaring Guest List",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 1,
+      "id": 1025,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1026,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1027,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1028,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1029,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1030,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1033,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1037,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1043,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1044,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1047,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1049,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 1050,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1051,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1058,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1129,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1130,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1131,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1133,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1134,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1135,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1140,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1141,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 1146,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1148,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1151,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1152,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1153,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1155,
+      "isFoil": false
+    }
+  ]
+}

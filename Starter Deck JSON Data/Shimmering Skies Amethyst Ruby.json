@@ -1,0 +1,175 @@
+{
+  "colors": [
+    "Amethyst",
+    "Ruby"
+  ],
+  "deckGroup": "S5",
+  "foilIds": [
+    1004,
+    1060
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Ready to Let Loose",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 992,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 995,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 996,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 997,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 998,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1002,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1003,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1004,
+      "isFoil": true
+    },
+    {
+      "amount": 1,
+      "id": 1006,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1010,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1012,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1013,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1015,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1016,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1020,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1024,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1059,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1060,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 1062,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1064,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1066,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1067,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1068,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1070,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1073,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1078,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1080,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1081,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1082,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1086,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1089,
+      "isFoil": false
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "colors": [
+    "Emerald",
+    "Ruby"
+  ],
+  "deckGroup": "S1",
+  "foilIds": [
+    72,
+    104
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Daring and Deception",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 69,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 72,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 73,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 79,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 80,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 81,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 86,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 87,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 89,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 91,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 95,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 96,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 97,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 100,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 102,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 104,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 105,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 106,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 108,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 112,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 120,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 121,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 122,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 124,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 125,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 130,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 132,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 135,
+      "isFoil": false
+    }
+  ]
+}

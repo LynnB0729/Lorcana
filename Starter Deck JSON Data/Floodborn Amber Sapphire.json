@@ -1,0 +1,165 @@
+{
+  "colors": [
+    "Amber",
+    "Sapphire"
+  ],
+  "deckGroup": "S2",
+  "foilIds": [
+    242,
+    363
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Tactical Teamwork",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 8,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 141,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 156,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 217,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 218,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 221,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 222,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 224,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 225,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 226,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 227,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 237,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 238,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 239,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 242,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 243,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 246,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 360,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 363,
+      "isFoil": true
+    },
+    {
+      "amount": 1,
+      "id": 365,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 368,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 372,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 376,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 377,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 379,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 380,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 382,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 383,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 385,
+      "isFoil": false
+    }
+  ]
+}

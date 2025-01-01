@@ -1,0 +1,165 @@
+{
+  "colors": [
+    "Amethyst",
+    "Steel"
+  ],
+  "deckGroup": "S2",
+  "foilIds": [
+    269,
+    412
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Might and Magic",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 63,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 184,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 187,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 253,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 254,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 259,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 261,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 262,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 265,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 266,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 267,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 268,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 269,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 270,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 279,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 387,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 390,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 392,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 395,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 398,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 401,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 402,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 407,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 410,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 411,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 412,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 413,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 418,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 419,
+      "isFoil": false
+    }
+  ]
+}

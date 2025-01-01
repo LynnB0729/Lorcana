@@ -1,0 +1,170 @@
+{
+  "colors": [
+    "Emerald",
+    "Sapphire"
+  ],
+  "deckGroup": "S6",
+  "foilIds": [
+    1272,
+    1339
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "Genius Reinvented",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 2,
+      "id": 1032,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1046,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1056,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1107,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1225,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1272,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 1273,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1274,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1276,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1277,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1278,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1282,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1286,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1288,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1294,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1296,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1297,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1336,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1337,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1339,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 1343,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1344,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1345,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1348,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1350,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1353,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 1355,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 1357,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1365,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 1369,
+      "isFoil": false
+    }
+  ]
+}
