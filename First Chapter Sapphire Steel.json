@@ -1,0 +1,160 @@
+{
+  "colors": [
+    "Sapphire",
+    "Steel"
+  ],
+  "deckGroup": "S1",
+  "foilIds": [
+    139,
+    189
+  ],
+  "metadata": {
+    "formatVersion": "2.0.2",
+    "generatedOn": "2024-12-16T17:58:07",
+    "language": "en"
+  },
+  "name": "A Steadfast Strategy",
+  "type": "Starter Deck",
+  "cards": [
+    {
+      "amount": 3,
+      "id": 138,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 139,
+      "isFoil": true
+    },
+    {
+      "amount": 3,
+      "id": 140,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 145,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 146,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 148,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 150,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 151,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 154,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 155,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 158,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 161,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 164,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 166,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 169,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 172,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 174,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 179,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 181,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 182,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 185,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 187,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 189,
+      "isFoil": true
+    },
+    {
+      "amount": 2,
+      "id": 190,
+      "isFoil": false
+    },
+    {
+      "amount": 3,
+      "id": 197,
+      "isFoil": false
+    },
+    {
+      "amount": 1,
+      "id": 198,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 199,
+      "isFoil": false
+    },
+    {
+      "amount": 2,
+      "id": 200,
+      "isFoil": false
+    }
+  ]
+}
